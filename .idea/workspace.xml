@@ -2,6 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ca61aba-0993-4cf3-958a-901f7338534f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/model/exceptions/AbstractXOException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/model/exceptions/AlreadyOccupiedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/ConsoleView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/controllers/CurrentMoveController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/model/Field.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/model/Game.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/model/exceptions/InvalidPointException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/controllers/MoveController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/model/Player.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/model/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/controllers/WinnerController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/model/exceptions/XOCriticalException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myHexlet.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/TicTacToe" afterPath="" />
     </list>
     <ignored path="myHexlet.iws" />
